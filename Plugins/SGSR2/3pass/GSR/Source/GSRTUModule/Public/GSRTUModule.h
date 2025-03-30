@@ -10,6 +10,7 @@
 
 #include "Modules/ModuleManager.h"
 #include "RHIDefinitions.h"
+#include "GSRTU.h" // Include the header where IGSRTemporalUpscaler is defined
 
 class FGSRTU;
 // class ITemporalUpscaler;
